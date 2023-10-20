@@ -10,6 +10,6 @@ eureka:
 
 spring:
   application:
-    name: USER-SERVICE
+    name: USER-SERVICE1111
 
       
